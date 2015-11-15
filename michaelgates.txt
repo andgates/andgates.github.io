@@ -1,6 +1,15 @@
 <span id="a">michael@andgates</span>:<span id="b">~</span><span id="c">$</span> cat michaelgates.txt<br/><br/>
-Hi, I'm Michael Gates.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I am currently a third year transfer student at UC Santa Cruz. I'm pursuing a B.A. in Computer Sciene and a minor in Linguistics.</p><!-- qowifjqwoeijfoqweijfqweoifjqweofijqweoqwoijefoqwijefoijfqiwoefjj -->
-<p>I develop and design websites for small business when I have time. Most recently I helped out <a href="http://www.trainingcampfit.com/">Training Camp</a>, a local gym and yoga studio, and <a href="http://www.renaissancepaving.com/">Renaissance Paving</a>.</p><!- oqwipjefqwioefjwioqfjoiqwjfeioqwjefoi -->
-<p>I love to read, listen to music, and travel.</p><!-- owlsqweoifjqwoefijqwoeifjqwoefijwef -->
-If you would like to get in touch with me, whether it be for tech support, a business venture, or to just say hi<!-- slightdelayhere-->, feel free to send me an email.<!-- longlongcomment --> My email address is: <a href="mailto:mjgates@ucsc.edu">mjgates@ucsc.edu</a>
-<p>And if you haven't already, be sure to check out my <a href="https://github.com/andgates">github profile</a> and my most recent <a href="http://devpost.com/software/hackingedu-project">project</a>, which got my team "Runner up for Coolest Hack" at HackingEdu 2015.</p>
+
+Hello there, I'm Michael Gates.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I am currently a third year transfer student at UC Santa Cruz. I'm pursuing a B.A. in Computer Sciene and a minor in Linguistics.</p>
+
+<!-- qowifjqwoeijfoqweijfqweoifjqweofijqweoqwoijefoqwijefoijfqiwoefjj -->
+
+<p>I develop and design websites for small business when I have time. Most recently I helped out <a href="http://www.trainingcampfit.com/">Training Camp</a>, a local gym and yoga studio, and <a href="http://www.renaissancepaving.com/">Renaissance Paving</a>.</p>
+
+<!- oqwipjefqwioefjwioqfjoiqwjfeioqwjefoi -->
+
+<p>I'm interested in, computational linguistics, natural language processing, user interface optimization, and much more.</p><!-- owlsqweoifjqwoefijqwoeifjqwoefijwef -->
+
+You should send me an email, whether it be for a business venture, or to just say hi <!-- slightdelayhere--><!-- longlongcomment --> My email address is: <a href="mailto:mjgates@ucsc.edu">mjgates@ucsc.edu</a>
+
+<p>And if you haven't already, be sure to check out my <a href="https://github.com/andgates">github profile</a> and most recent <a href="http://devpost.com/software/hackingedu-project">project</a>, which got my team "Runner up for Coolest Pebble Hack" at HackingEdu 2015.</p>
