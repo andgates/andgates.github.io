@@ -1,5 +1,4 @@
 <span id="a">michael@andgates</span>:<span id="b">~</span><span id="c">$</span> cat michaelgates.txt<br/><br/>
-
 Hello there, I'm Michael Gates.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I am currently a third year transfer student at UC Santa Cruz. I'm pursuing a B.A. in Computer Science with a minor in Linguistics.</p>
 <!-- qowifjqwoeijfoqweijfqweoifjqweofijqweoqwoijefoqwijefoijfqiwoefjj -->
 <p>I develop and design websites for small business when I have time. Most recently I helped out <a target="_blank" href ="http://www.trainingcampfit.com/">Training Camp</a>, a local gym and yoga studio, and <a target="_blank" href ="http://www.renaissancepaving.com/">Renaissance Paving</a>.</p>
